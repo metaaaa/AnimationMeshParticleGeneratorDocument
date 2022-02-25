@@ -102,3 +102,50 @@ HeightMapの強度を指定します。
 </td></tr>
 </tbody>
 </table>
+
+
+#### Emission
+StandardあるいはToonの時のみ表示されます。
+Emissionを制御できます。
+
+<table width="100%">
+<thead>
+<tr><td colspan="3"><b>プロパティ名</b></td><td><b>説明</b></td></tr>
+</thead>
+<tbody>
+<tr><td colspan="3"><b>EmissionMap</b></td><td>
+<p>
+エミッションマップを設定します。
+</p>
+</td></tr>
+</p>
+</td></tr>
+<tr><td colspan="3"><b>EmissionColor</b></td><td>
+<p>
+エミッション色を設定します。
+</p>
+</tbody>
+</table>
+
+#### RimLight
+リムライトを制御できます。
+
+<table width="100%">
+<thead>
+<tr><td colspan="3"><b>プロパティ名</b></td><td><b>説明</b></td></tr>
+</thead>
+<tbody>
+<tr><td colspan="3"><b>RimColor</b></td><td>
+<p>
+リムライトの色を設定します。
+</p>
+<tr><td colspan="3"><b>RimPower</b></td><td>
+<p>
+リムライトの強度を設定します。
+</p>
+<tr><td colspan="3"><b>RimRange</b></td><td>
+<p>
+リムライトの範囲を設定します。
+</p>
+</tbody>
+</table>
