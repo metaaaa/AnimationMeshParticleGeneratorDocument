@@ -215,11 +215,10 @@ Emissionを制御できます。
 rngtm様のUnity-RampTextureGenerator(https://github.com/rngtm/Unity-RampTextureGenerator)をお借りしています。
 ToonのRampMapを生成するためのツールです。
 
-1．Unity上部のバーから"AnimationMeshParticleGenerator"->"AnimationMeshParticleExporter"を選択する。
- 
-2．保存するディレクトリとファイル名を設定し、Createボタンを押してScriptableObjectを生成します。
+1.Unity上部のバーから"AnimationMeshParticleGenerator"->"AnimationMeshParticleExporter"を選択する。
 
-3. 生成されたScriptableObjectのグラデーションなどのプロパティを設定します。
+2.保存するディレクトリとファイル名を設定し、Createボタンを押してScriptableObjectを生成します。
 
-4. ScriptableObject内のTextureをRampMapプロパティに設定します。
+3.生成されたScriptableObjectのグラデーションなどのプロパティを設定します。
 
+4ScriptableObject内のTextureをRampMapプロパティに設定します。
