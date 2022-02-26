@@ -149,3 +149,34 @@ Emissionを制御できます。
 </p>
 </tbody>
 </table>
+
+#### Options
+色々制御できます。
+
+<table width="100%">
+<thead>
+<tr><td colspan="3"><b>プロパティ名</b></td><td><b>説明</b></td></tr>
+</thead>
+<tbody>
+<tr><td colspan="3"><b>Cull</b></td><td>
+<p>
+ 表面描画、裏面描画、両面描画を設定できます。
+</p>
+<tr><td colspan="3"><b>delta time</b></td><td>
+<p>
+アニメーション開始点のズレを設定します。
+</p>
+<tr><td colspan="3"><b>loop</b></td><td>
+<p>
+アニメーションをループするかを選択します。
+</p>
+<tr><td colspan="3"><b>AnimationRandomOffsetValue</b></td><td>
+<p>
+パーティクル毎のアニメーション開始点のランダム幅を設定します。
+</p>
+<tr><td colspan="3"><b>AnimationSpeed</b></td><td>
+<p>
+アニメーション再生速度を設定します。
+</p>
+</tbody>
+</table>
