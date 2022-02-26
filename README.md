@@ -1,5 +1,27 @@
 # AnimationMeshParticleGeneratorDocument
 
+## AnimationMeshParticleExporter使い方
+
+本ツールはオブジェクトとアニメーションからアニメーション付きメッシュパーティクルを作成するツールです。
+オブジェクトは1mesh,1material,頂点数が8192以下である必要があります。
+
+1.unitypackageをインポートする。
+
+2.シーンに対象のオブジェクトを配置する。
+
+3.Animatorコンポーネントをアタッチし、AnimationControllerを設定する。
+AnimationControllerがない場合は作成し、New Stateをつくりアニメーションを設定する。
+
+4．Unity上部のバーから"AnimationMeshParticleGenerator"->"AnimationMeshParticleExporter"を選択する。
+
+5．対象のオブジェクト欄にさきほどシーンに置いたオブジェクトをセットする。
+
+6．"process"ボタンを押す。ものによっては長いのでかなり待つ必要があります。
+
+7．シーンにパーティクルシステムが生成されていれば成功です。
+
+## マテリアルプロパティ
+
 #### Base
 Baseでは色のベースとなるテクスチャを制御できます。
 
@@ -187,3 +209,13 @@ Emissionを制御できます。
 </p>
 </tbody>
 </table>
+
+## RampTextureGenerator使い方
+
+rngtm様のUnity-RampTextureGenerator(https://github.com/rngtm/Unity-RampTextureGenerator)をお借りしています。
+ToonのRampMapを生成するためのツールです。
+
+1．Unity上部のバーから"AnimationMeshParticleGenerator"->"AnimationMeshParticleExporter"を選択する。
+2．保存するディレクトリとファイル名を設定し、Createボタンを押してScriptableObjectを生成します。
+3. 生成されたScriptableObjectのグラデーションなどのプロパティを設定します。
+4. ScriptableObject内のTextureをRampMapプロパティに設定します。
