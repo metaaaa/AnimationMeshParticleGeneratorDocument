@@ -170,6 +170,13 @@ Emissionを制御できます。
 <p>
 アニメーションをループするかを選択します。
 </p>
+<tr><td colspan="3"><b>Occlusion</b></td><td>
+<p>
+<b>Unlitの時のみ表示されます。</b>
+</p>
+<p>
+仮想光源でLambertするかどうかを設定します。
+</p>
 <tr><td colspan="3"><b>AnimationRandomOffsetValue</b></td><td>
 <p>
 パーティクル毎のアニメーション開始点のランダム幅を設定します。
