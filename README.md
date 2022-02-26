@@ -212,7 +212,7 @@ Emissionを制御できます。
 
 ## RampTextureGenerator使い方
 
-rngtm様のUnity-RampTextureGenerator(https://github.com/rngtm/Unity-RampTextureGenerator)をお借りしています。
+rngtm様のUnity-RampTextureGenerator (https://github.com/rngtm/Unity-RampTextureGenerator) をお借りしています。
 ToonのRampMapを生成するためのツールです。
 
 1.Unity上部のバーから"AnimationMeshParticleGenerator"->"AnimationMeshParticleExporter"を選択する。
