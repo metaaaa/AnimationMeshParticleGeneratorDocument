@@ -218,8 +218,8 @@ ToonのRampMapを生成するためのツールです。
 1．Unity上部のバーから"AnimationMeshParticleGenerator"->"AnimationMeshParticleExporter"を選択する。
  
 2．保存するディレクトリとファイル名を設定し、Createボタンを押してScriptableObjectを生成します。
- 
+
 3. 生成されたScriptableObjectのグラデーションなどのプロパティを設定します。
- 
+
 4. ScriptableObject内のTextureをRampMapプロパティに設定します。
- 
+
