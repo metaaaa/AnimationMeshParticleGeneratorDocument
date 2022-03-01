@@ -1,5 +1,7 @@
 # AnimationMeshParticleGeneratorDocument
 
+https://metaaa.booth.pm/items/2346037
+
 ## AnimationMeshParticleExporter使い方
 
 本ツールはオブジェクトとアニメーションからアニメーション付きメッシュパーティクルを作成するツールです。
