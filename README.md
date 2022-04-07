@@ -209,6 +209,14 @@ Emissionを制御できます。
 <p>
 アニメーション再生速度を設定します。
 </p>
+<tr><td colspan="3"><b>LookAtVelocityDirection</b></td><td>
+<b>SimurationSpaceがWorldのときだけ正常に動作します。</b>
+<p>
+Particleを進行方向に向くように回転させます。
+</p>
+<p>
+ParticleSystemによる回転後のZ軸の向きをForwardとして進行方向の向きに回転します。
+</p>
 </tbody>
 </table>
 
