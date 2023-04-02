@@ -22,6 +22,20 @@ AnimationControllerがない場合は作成し、New Stateをつくりアニメ�
 
 7．シーンにパーティクルシステムが生成されていれば成功です。
 
+## AlembicParticleExporter使い方
+
+1.unitypackageをインポートする。
+
+2.シーンに対象のAlembicを配置する。
+
+3．Unity上部のバーから"AnimationMeshParticleGenerator"->"AlembicParticleExporter"を選択する。
+
+4．対象のオブジェクト欄にさきほどシーンに置いたAlembicをセットする。
+
+5．"process"ボタンを押す。ものによっては長いのでかなり待つ必要があります。
+
+6．シーンにパーティクルシステムが生成されていれば成功です。
+
 ## マテリアルプロパティ
 
 #### Base
