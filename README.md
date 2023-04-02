@@ -206,7 +206,7 @@ Emissionを制御できます。
 </p>
 <tr><td colspan="3"><b>loop</b></td><td>
 <p>
-アニメーションをループするかを選択します。
+アニメーションをループするかを選択します。OFFの場合はParticleSystemのCustomDataから寿命に応じたアニメーションの再生具合を制御できます
 </p>
 <tr><td colspan="3"><b>Occlusion</b></td><td>
 <p>
